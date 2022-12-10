@@ -6,7 +6,7 @@
 | phpFileManager 1.7.9
 | By Fabricio Seger Kolling
 | Copyright (c) 2004-2020 Fabrício Seger Kolling
-| E-mail: dulldusk@gmail.com
+| E-mail: wkwk@gmail.com
 | URL: http://phpfm.sf.net
 | Last Changed: 2020-04-28
 +--------------------------------------------------
